@@ -26,37 +26,45 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    padding-top: 70px;
 
 
 }
 
 div.images{
-    margin-top: 30px;
+    margin-top: 70px;
+    margin-left: 200px;
+
 }
 
 div.img1 {
-    margin-right: 350px;
-    float: left;
-    width: 40px;
-    height: 20px;
-    padding: 15px;
-}
 
+    float: left;
+}
 div.img2 {
     margin-right: 350px;
+
+    padding-left: 27px;
     float: left;
-    width: 40px;
-    height: 20px;
-    padding: 15px;
 
 }
+div.img3{
+    padding-left: 27px;
+    float: left
+}
+div.img4{
+    padding-top: 27px;
+    float: left;
 
-div.img:hover {
-    border: 1px transparent #777;
+}
+div.img5{
+    padding-top: 27px;
+    float: left;
+    padding-left: 27px;
+}
+div.img6{
+    padding-top: 27px;
+    float: left;
+    padding-left: 27px;
 }
 
-
-div.desc {
-    padding: 15px;
-    text-align: center;
-}

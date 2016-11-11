@@ -27,6 +27,33 @@
 </div>
 
 
+<body>
+
+
+<div class="slider">
+    <img class="Slide" src="Overwatch.jpg" width="700" height="350">
+    <img class="Slide" src="DH2.jpg" width="700" height="350">
+    <img class="Slide" src="dark-souls-3.jpg" width="700" height="350">
+</div>
+
+<script>
+    var myIndex = 0;
+    change();
+
+    function change() {
+        var i;
+        var x = document.getElementsByClassName("Slide");
+        for (i = 0; i < x.length; i++) {
+            x[i].style.display = "none";
+        }
+        myIndex++;
+        if (myIndex > x.length) {myIndex = 1}
+        x[myIndex-1].style.display = "block";
+        setTimeout(change, 2000);
+    }
+</script>
+
+
 <div class="content">
     <p>This website is under construction right now, please come back at another time (:</p>
 

@@ -1,3 +1,4 @@
+/*Nav bar*/
 .nav ul {
     list-style-type: none;
     margin-left: 200px;
@@ -19,22 +20,26 @@
 .nav li a:hover{
     background-color: #111;
 }
-
+/*bakgrund*/
 body {
     background-image: url("BGStartsida.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding-top: 70px;
 
+/*bilder på games sidan*/
+}
 
+.images a:hover{
+    background-color: darkgray;
 }
 
 div.images{
     margin-top: 70px;
     margin-left: 200px;
 }
+
 div.img1 {
     float: left;
 }

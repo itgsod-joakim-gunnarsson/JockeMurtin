@@ -22,20 +22,11 @@
 }
 /*bakgrund*/
 body {
-    background-image: url("7D2D bakgrund.jpg");
+    background-image: url("SkräpProg/BF1 Bakgrund.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     min-height: 500px;
-
-}
-
-.content{
-    background: dimgray fixed center;
-    text-align: center;
-    margin: 50px 200px 100px;
-    padding-bottom: 1000px;
-    opacity: 0.8
 
 }

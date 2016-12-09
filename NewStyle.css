@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+
+body {
+    background-image: url("sunset-142698__340.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}

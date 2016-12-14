@@ -1,5 +1,6 @@
 body {
-    background-size: auto;
+    background-image: url("Images/montana.jpg");
+    background-size: 100%;
     background-attachment: fixed;
 
 }

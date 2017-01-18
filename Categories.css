@@ -1,0 +1,22 @@
+
+
+.images a:hover{
+    background-color: darkgray;
+}
+
+div.images{
+    margin-top: 70px;
+    margin-left: 200px;
+}
+
+div.img1 {
+    float: left;
+}
+div.img2 {
+    padding-left: 27px;
+    float: left;
+}
+div.img3{
+    padding-left: 27px;
+    float: left
+}

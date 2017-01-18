@@ -24,19 +24,19 @@ div.images{
     margin-left: 185px;
 }
 
-div.img1 {
+div.Food {
     float: left;
 }
-div.img2 {
+div.Nature {
     padding-left: 27px;
     float: left;
 }
-div.img3{
+div.Animals {
     padding-left: 27px;
     float: left;
 }
 
-div.img4{
+div.Random {
     padding-left: 27px;
     float: left;
 }

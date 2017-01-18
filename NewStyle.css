@@ -13,3 +13,30 @@ body {
     background-color: white;
 
 }
+
+.images a:hover{
+    background-color: darkgray;
+    background-size: cover;
+}
+
+div.images{
+    margin-top: 70px;
+    margin-left: 185px;
+}
+
+div.img1 {
+    float: left;
+}
+div.img2 {
+    padding-left: 27px;
+    float: left;
+}
+div.img3{
+    padding-left: 27px;
+    float: left;
+}
+
+div.img4{
+    padding-left: 27px;
+    float: left;
+}

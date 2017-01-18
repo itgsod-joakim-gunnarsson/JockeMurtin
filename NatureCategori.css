@@ -1,0 +1,32 @@
+body {
+    background-image: url("Images/germanyblur.png");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.content {
+    font-family: "Arial Black";
+    font-size: 100px;
+    text-align: center;
+    opacity: 0.5;
+    background-color: white;
+}
+
+.NatureImages a:hover{
+    filter: brightness(1.5);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.NatureImages{
+    margin-top: 40px;
+    margin-left: 90px;
+}
+.img1, .img4, .img7 {
+    float: left;
+    padding-bottom: 10px;
+}
+.img2, .img3, .img5, .img6, .img8, .img9 {
+    padding-left: 20px;
+    padding-bottom: 10px;
+    float: left;
+}

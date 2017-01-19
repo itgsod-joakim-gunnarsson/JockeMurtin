@@ -11,12 +11,6 @@ body {
     text-align: center;
     opacity: 0.4;
     background-color: #fff;
-
-}
-
-.images a:hover{
-    background-color: darkgray;
-    background-size: cover;
 }
 
 .images{

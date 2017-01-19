@@ -2,6 +2,7 @@ body {
     background-image: url("Images/germanyblur.png");
     background-size: 100%;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .content {
@@ -29,4 +30,13 @@ body {
     padding-left: 20px;
     padding-bottom: 10px;
     float: left;
+}
+
+.footer {
+    font-size: 10px;
+    font-family: "Times New Roman";
+    color: white;
+    float: left;
+    margin-top: 10px;
+    padding-right: 1000px;
 }

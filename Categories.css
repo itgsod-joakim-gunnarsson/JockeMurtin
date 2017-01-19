@@ -13,20 +13,20 @@ body {
     background-color: white;
 }
 
-.NatureImages a:hover{
+.AllImages a:hover{
     filter: brightness(1.5);
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 }
-.NatureImages{
+.AllImages{
     margin-top: 40px;
     margin-left: 90px;
 }
-.img1, .img4, .img7 {
+.n1, .n4, .n7 {
     float: left;
     padding-bottom: 10px;
 }
-.img2, .img3, .img5, .img6, .img8, .img9 {
+.n2, .n3, .n5, .n6, .n8, .n9 {
     padding-left: 20px;
     padding-bottom: 10px;
     float: left;

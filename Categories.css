@@ -1,25 +1,31 @@
 /* Nature background*/
 body {
-    background-image: url("Images/Nature/germanyblur.png");
+    background-image: url("Images/Nature/germany.jpg");
     background-size: 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
 
 #body2 {
-    background-image: url("Images/Food/Grapesblur.png");
+    background-image: url("Images/Food/grapes.jpg");
     background-size: 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
 
 #body3 {
-    background-image: url("Images/Animals/Apa.jpg");
+    background-image: url("Images/Animals/cat-1978356_1920.jpg");
     background-size: 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
 
+#body4 {
+    background-image: url("Images/Random/the-old-man-1981062.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
 
 .content {
     font-family: "Arial Black";
@@ -35,18 +41,19 @@ body {
     transition: .3s ease-in-out;
 }
 .AllImages{
-    margin-top: 40px;
-    margin-left: 90px;
+    margin-top: 80px;
+    margin-left: 80px;
 }
-.n1, .n4, .n7, .f1, .f4, .f7, .a1, .a4, .a7 {
+.n1, .n4, .n7, .f1, .f4, .f7, .a1, .a4, .a7, .r1, .r4, .r7 {
     float: left;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
-.n2, .n3, .n5, .n6, .n8, .n9, .f2, .f3, .f5, .f6, .f8, .f9, .a2, .a3, .a5, .a6, .a8, .a9 {
-    padding-left: 20px;
-    padding-bottom: 10px;
+.n2, .n3, .n5, .n6, .n8, .n9, .f2, .f3, .f5, .f6, .f8, .f9, .a2, .a3, .a5, .a6, .a8, .a9, .r2, .r3, .r5, .r6, .r8, .r9 {
+    padding-left: 25px;
+    padding-bottom: 20px;
     float: left;
 }
+
 
 .footer {
     font-size: 10px;
